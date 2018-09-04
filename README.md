@@ -1,2 +1,2 @@
 # RTR105
-Datormācības kursa elektroniskā karte
+Datormācības kursa elektroniskā klade
