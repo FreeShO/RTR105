@@ -1,0 +1,72 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3* echo -e  "mkdir Map \ncd Mape" > create_in.sh
+    4  ls
+    5  cat create_in.sh
+    6  create_in.sh
+    7  echo $PATH
+    8  where is cd
+    9  whereis firefox
+   10  pwd
+   11  PATH=""/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+   12  PATH=/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+   13  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+   14  echo $PATH
+   15  create_in.sh
+   16  echo $PATH
+   17  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+   18  PATH = "/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+   19  echo $PATH
+   20  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+   21  ls
+   22  echo $PATH
+   23  chmod 764 create_in.sh
+   24  ls -l
+   25  create_in.sh
+   26  ls
+   27  PATH ="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+   28  echo $PATH
+   29  PATH ="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+   30  echo $PATH
+   31  whereis firefox
+   32  echo $PATH
+   33  pwd
+   34  create_in.sh
+   35  echo $PATH
+   36  pwd
+   37  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+   38  pwd
+   39  create_in.sh
+   40  pwd
+   41  ls -l
+   42  create_in.sh
+   43  ls -l
+   44* "
+   45  create_in.sh
+   46  ls -l
+   47  $PATH
+   48  ls
+   49  pwd
+   50  PATH ="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+   51  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+   52  echo $PATH
+   53  create_in.sh 
+   54  nano create_in.sh 
+   55  echo $PATH
+   56  ls
+   57  PATH=$PATH:~/Map
+   58  echo $PATH
+   59  /home/user/create_in.sh 
+   60  ./create_in.sh 
+   61  nano create_in.sh 
+   62  pwd
+   63  ls -l
+   64  git clone https://github.com/FreeShO/RTR105
+   65  pwd
+   66  cd /home/user/RTR105/
+   67  pwd
+   68  ls -l
+   69  nano README.md 
+   70  nano git-upload
+   71  ls -l
+   72  history > history_20180918.txt
