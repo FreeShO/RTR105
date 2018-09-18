@@ -70,3 +70,22 @@
    70  nano git-upload
    71  ls -l
    72  history > history_20180918.txt
+   73  ls
+   74  ls -l
+   75  chmod 764 git-upload 
+   76  ls -l
+   77  ./git-upload 
+   78  ./git-upload 20180918_14_05
+   79  ./git-upload
+   80  ./git-upload 20180918_14_05
+   81  nano git-upload
+   82  ./git-upload 20180918_14_05
+   83  pwd
+   84  ./git-upload 20180918_14_05
+   85  nano git-upload
+   86* 
+   87  python
+   88  ipython
+   89  idle &
+   90  ls -l
+   91  history > history_20180918.txt
