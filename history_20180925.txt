@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/FreeShO/RTR105
+    4  ls -l
+    5  cd RTR105/
+    6  idle &
+    7  ls -l
+    8  nano test_1_20180925.py
+    9  ls -l
+   10  nano dgr_20180925.py
+   11  ls -l
+   12  history > history_20180925.txt
