@@ -1,0 +1,13 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  git clone https://github.com/FreeShO/RTR105
+    5  cd RTR105/
+    6  idle &
+    7  firefox &
+    8  git clone https://github.com/FreeShO/RTR105/
+    9  git clone https://github.com/FreeShO/RTR105
+   10  cd RTR105/
+   11  idle &
+   12  nano MonteCarlo.py
+   13  history > history_20181127.txt
